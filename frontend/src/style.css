@@ -1,0 +1,13 @@
+/* App.css
+.chart-container {
+    position: relative;
+    width: 100%;
+    height: 300px; /* Adjust height as needed */
+    overflow: hidden; /* Prevent overflow */
+  }
+  
+.chart-container svg {
+    width: 100%; /* Make SVG responsive */
+    height: 100%; /* Make SVG responsive */
+  }
+   */
